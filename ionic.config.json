@@ -1,0 +1,7 @@
+{
+  "name": "Radio SuperNova Cabrero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
